@@ -1,0 +1,1 @@
+{"uuid":"8db40022-deed-491c-afdb-7515e333f485","name":"Base.BaseTest.BeforeTest","children":["2f636ad3-a344-4a0e-8881-a4c36e10a4ef"],"description":"","befores":[{"name":"BeforeTest","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1713830569015,"stop":1713830571711}],"afters":[],"start":1713830569015,"stop":1713830571712}
